@@ -67,7 +67,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/prog-meme-3.jpeg) | [Jose Montes De Oca Morfin](https://github.com/JoseMDO) | [source](https://interestingengineering.com/lists/9-of-the-funniest-programmer-memes-right-now)|
 | ![](https://i.imgflip.com/10ox8o.jpg) | [Alana Edwards](https://github.com/prettyalana) | [source](https://imgflip.com/tag/programming?sort=latest&after=13fk2p) |
 | ![](assets/test-in-production-meme-1.jpg) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
-| ![](./assests/cat_companon.jpeg) | [Amanda Mendez](https://github.com/amandaag39) | [source](https://chat.openai.com/) |
+| ![](./assests/cat_companion.jpeg) | [Amanda Mendez](https://github.com/amandaag39) | [source](https://chat.openai.com/) |
 | ![](assets/cat_companon.jpeg) | [Amanda Mendez](https://github.com/amandaag39) | [source](https://chat.openai.com/) |
 | ![](assets/flapjack_meme.jpeg)  | [Jason Johnson](https://github.com/jjohnson606) | [source](https://preview.redd.it/6f99lpe3i8151.jpg?auto%253Dwebp%2526s%253D6a760891b0c8905979480ca7cc672f77912c5287) |
 | ![]([assets/request-to-meme-ra.png](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg)) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
