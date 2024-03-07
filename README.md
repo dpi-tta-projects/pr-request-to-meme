@@ -72,7 +72,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/Pizza_rolls_meme.jpg) | [Lateef Idris](https://github.com/lateefidris) | [source](https://pbs.twimg.com/media/GA61VZfakAEhXxj.jpg) |
 | ![](https://i.imgflip.com/10ox8o.jpg) | [Alana Edwards](https://github.com/prettyalana) | [source](https://imgflip.com/tag/programming?sort=latest&after=13fk2p) |
 
-| ![]([assets/request-to-meme-ra.png](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg)) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
-=======
+| ![](assets/test-in-production-meme-1.jpg) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
+
 
 
