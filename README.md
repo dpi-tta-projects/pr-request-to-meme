@@ -72,5 +72,3 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/test-in-production-meme-1.jpg) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
 
 =======
-
-
