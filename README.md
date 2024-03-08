@@ -46,6 +46,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 # indecisive flapjacks
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
+| ![](assets/pr-meme.webp) | [Cisco Vlahakis](https://github.com/ciscovlahakis) | [source](https://cdn.sanity.io/images/hgftikht/production/5c052ea60569a7bb10d063d64cc4e65b7e5479ef-894x1206.png?fm=webp) |
 | ![](assets/handsome-squidward.jpeg)  | [Annie Huynh](https://github.com/ahuynh3a) | [source](https://imgflip.com/i/7mvtlt) |
 | ![](assets/MEME.jpeg) | [Shay Scott](https://github.com/kscott675) | [source](https://www.pinterest.com/pin/433330795413169170/) |
 | ![](assets/pundit_meme.jpeg) | [Jeeho Lee](https://github.com/jeeheezy) | [source](https://imgflip.com/i/8idrc4) |
