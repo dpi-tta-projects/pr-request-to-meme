@@ -74,5 +74,6 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/60d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD.png) | [Shafaq Juda](https://github.com/shafaq-juda) | [source](https://uploads-ssl.webflowcom5f3c19f18169b62a0d0bf38760d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD.png) | 
 | ![](assets/writing-code-meme.jpeg) | [Rohan Mendiratta](https://github.com/romendi) | [source](https://www.boredpanda.com/programmer-funny-coding-jokes/) | 
 | ![](assets/meme.jpeg) | [Dylan Menard](https://github.com/Dylanm22) | [source](https://discuss.codecademy.com/t/coding-meme-thread-do-contribute/605868) | 
+| ![](assets/kermit.png) | [Mary Webby](https://github.com/marywebby) | [source](https://www.pinterest.com/pin/662240320235248960/) |
 | ![](assets/raghu_the_goat.jpg) | [Crystal Tliourane](https://github.com/ctlio) | [source](https://www.youtube.com/watch?v=BBJa32lCaaY) |
 | ![](assets/vp_meme.jpg) | [Vincent Pham](https://github.com/phamdvincent) | [source](https://imgflip.com/i/8iiip9) |
