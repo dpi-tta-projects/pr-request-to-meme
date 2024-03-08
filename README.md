@@ -75,3 +75,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/writing-code-meme.jpeg) | [Rohan Mendiratta](https://github.com/romendi) | [source](https://www.boredpanda.com/programmer-funny-coding-jokes/) | 
 | ![](assets/meme.jpeg) | [Dylan Menard](https://github.com/Dylanm22) | [source](https://discuss.codecademy.com/t/coding-meme-thread-do-contribute/605868) | 
 | ![](assets/raghu_the_goat.jpg) | [Crystal Tliourane](https://github.com/ctlio) | [source](https://www.youtube.com/watch?v=BBJa32lCaaY) |
+| ![](assets/vp_meme.jpg) | [Vincent Pham](https://github.com/phamdvincent) | [source](https://imgflip.com/i/8iiip9) |
