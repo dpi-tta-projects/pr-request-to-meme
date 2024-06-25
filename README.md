@@ -82,10 +82,10 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 # Gary's Gaba Ghoul Goblins
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
-
 | ![](assets/syntax_error.jpeg) | ([Arpan Patel](https://github.com/apatel-ai) |[source](https://global.discourse-cdn.com/codecademy/original/5X/8/f/a/9/8fa903b53b5aae8e32d93040ad87778375119171.jpeg) |
 | ![](assets/gary.jpg) | [Reza Husain](https://github.com/rezahusain) | [source](https://imgflip.com/i/8uza46) |
 | ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) |
 |![][https://i.imgflip.com/28pcba.jpg]| [Ray Gunawidjaja][https://github.com/rayguna] | [source][source](https://www.pinterest.com/pin/get-inspired-and-laugh-with-these-funny-motivational-memes--505880970652725669/)|
+| ![](assets/divs.jpeg) | [Ricardo Juarez](https://github.com/jrzricardo) | [source](https://www.reddit.com/r/programmingmemes/comments/1aw2kp2/_/#lightbox) |
 | ![](assets/black_panther_meme.jpeg) | [Kevin Calva](https://github.com/kcalva) | [source](https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-9.jpeg) |
 | ![](assets/bug_meme.jpg) | [Kurt Mauritz] | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
