@@ -78,4 +78,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/kermit.png) | [Mary Webby](https://github.com/marywebby) | [source](https://www.pinterest.com/pin/662240320235248960/) |
 | ![](assets/raghu_the_goat.jpg) | [Crystal Tliourane](https://github.com/ctlio) | [source](https://www.youtube.com/watch?v=BBJa32lCaaY) |
 | ![](assets/vp_meme.jpg) | [Vincent Pham](https://github.com/phamdvincent) | [source](https://imgflip.com/i/8iiip9) |
-| ![](assets/aleksei-meme.jpg) | [Aleksei Borovikov](https://github.com/aborov) | [source](https://www.meme-arsenal.com/en/create/meme/2456515) |
+| ![](assets/aleksei-meme.webp) | [Aleksei Borovikov](https://github.com/aborov) | [source](https://codingbootcamps.io/resources/our-favorite-programming-memes/) |
