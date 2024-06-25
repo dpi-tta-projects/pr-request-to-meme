@@ -99,3 +99,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/stack-overflow-close-tabs.gif) | [Adolfo Nava](https://github.com/AdolfoNava) | [source](https://tenor.com/view/stack-overflow-close-tabs-and-it-works-build-success-coding-gif-17718518) |
 | ![](assets/misspell.png) | [Jan Niewielski](https://github.com/jniewiel) | [source](https://i.chzbgr.com/full/9905641728/hC2734F9E/place-there-is-no-harmony-universe-only-constant-is-suffering-minutes-later-oh-misspelled-variable) |
 | ![](assets/highqualitycatmeme.png) | [Dylan Sarikas](https://github.com/dylansarikas) | [source](https://knowyourmeme.com/photos/2781183-tyronestash) |
+| ![](assets/Programming_Meme.jpeg) | [Maya Sheriff](https://github.com/MayaS1111) | [source](https://www.pinterest.com/pin/42925002689535117/) |
