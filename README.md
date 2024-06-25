@@ -83,3 +83,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
 | ![](assets/gary.jpg) | [Reza Husain](https://github.com/rezahusain) | [source](https://imgflip.com/i/8uza46) |
+| ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) |
