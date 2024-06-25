@@ -78,3 +78,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/kermit.png) | [Mary Webby](https://github.com/marywebby) | [source](https://www.pinterest.com/pin/662240320235248960/) |
 | ![](assets/raghu_the_goat.jpg) | [Crystal Tliourane](https://github.com/ctlio) | [source](https://www.youtube.com/watch?v=BBJa32lCaaY) |
 | ![](assets/vp_meme.jpg) | [Vincent Pham](https://github.com/phamdvincent) | [source](https://imgflip.com/i/8iiip9) |
+| ![](assets/Software-Development-Meme.webp) | [Yusra Ahmed](https://github.com/phamdvincent) | [source](https://cdn-cekmh.nitrocdn.com/SlrtebQxNZbUBkfXeRIcTgUmxZsOSldb/assets/images/optimized/rev-8360286/codoid.com/wp-content/uploads/2023/02/Software-Development-Meme.jpg) |
