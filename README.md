@@ -88,6 +88,10 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 |![](https://i.imgflip.com/28pcba.jpg)| [Ray Gunawidjaja][https://github.com/rayguna] | [source][source](https://www.pinterest.com/pin/get-inspired-and-laugh-with-these-funny-motivational-memes--505880970652725669/)|
 | ![](assets/divs.jpeg) | [Ricardo Juarez](https://github.com/jrzricardo) | [source](https://www.reddit.com/r/programmingmemes/comments/1aw2kp2/_/#lightbox) |
 | ![](assets/black_panther_meme.jpeg) | [Kevin Calva](https://github.com/kcalva) | [source](https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-9.jpeg) |
+| ![](assets/bug_meme.jpg) | [Kurt Mauritz] | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
+| ![](assets/benny-meme.jpg) | [Benny Joram](https://github.com/borvux) | [source](https://devcamp.com/site_blogs/top-5-programming-memes) |
 | ![](assets/future-meme.jpg) | [Herman Contreras](https://github.com/hcontr4) | [source](https://i.kym-cdn.com/entries/icons/original/000/021/782/meme.jpg) |
 | ![](assets/bug_meme.jpeg) | [Kurt Mauritz](https://github.com/MauritzKurt) | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
+| ![](assets/aleksei-meme.webp) | [Aleksei Borovikov](https://github.com/aborov) | [source](https://codingbootcamps.io/resources/our-favorite-programming-memes/) |
 | ![](assets/mentos_meme.jpg) | [Brandon Varner](https://github.com/brvarner) | [source](https://programmerhumor.io/programming-memes/get-ready-for-the-big-bang/) |
+
