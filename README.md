@@ -101,3 +101,5 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/highqualitycatmeme.png) | [Dylan Sarikas](https://github.com/dylansarikas) | [source](https://knowyourmeme.com/photos/2781183-tyronestash) |
 | ![](assets/Programming_Meme.jpeg) | [Maya Sheriff](https://github.com/MayaS1111) | [source](https://www.pinterest.com/pin/42925002689535117/) |
 | ![](assets/sadge.jpeg) | [Jennifer Rahman](https://github.com/jb520) | [source](https://devhumor.com/media/developer-experience-matters-too) |
+| ![](assets/macwindows.jpeg) | [Jeremy Baxter](https://github.com/jt-is-coding) | [source](https://www.reddit.com/r/programmingmemes/comments/1deu5zq/mac/#lightbox) |
+| ![](assets/Programming_Meme.jpeg) | [Maya Sheriff](https://github.com/MayaS1111) | [source](https://www.pinterest.com/pin/42925002689535117/) |
