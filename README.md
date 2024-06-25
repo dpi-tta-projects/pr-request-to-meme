@@ -81,9 +81,18 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 
 # Gary's Gaba Ghoul Goblins
 | Meme | Submitted By | Source |
+| -------- | ------- | ------- |
+| ![](assets/syntax_error.jpeg) | ([Arpan Patel](https://github.com/apatel-ai) |[source](https://global.discourse-cdn.com/codecademy/original/5X/8/f/a/9/8fa903b53b5aae8e32d93040ad87778375119171.jpeg) |
+| ![](assets/gary.jpg) | [Reza Husain](https://github.com/rezahusain) | [source](https://imgflip.com/i/8uza46) |
 | ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) 
 | ![](assets/cat_code_meme.webp) [Nancy Camacho](https://github.com/Nancyjc97) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/8w54mx/code_comments_be_like/) |
-
-
-
+| ![](https://i.imgflip.com/28pcba.jpg)| [Ray Gunawidjaja][https://github.com/rayguna] | [source][source](https://www.pinterest.com/pin/get-inspired-and-laugh-with-these-funny-motivational-memes--505880970652725669/)|
+| ![](assets/divs.jpeg) | [Ricardo Juarez](https://github.com/jrzricardo) | [source](https://www.reddit.com/r/programmingmemes/comments/1aw2kp2/_/#lightbox) |
+| ![](assets/black_panther_meme.jpeg) | [Kevin Calva](https://github.com/kcalva) | [source](https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-9.jpeg) |
+| ![](assets/bug_meme.jpg) | [Kurt Mauritz] | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
+| ![](assets/benny-meme.jpg) | [Benny Joram](https://github.com/borvux) | [source](https://devcamp.com/site_blogs/top-5-programming-memes) |
+| ![](assets/future-meme.jpg) | [Herman Contreras](https://github.com/hcontr4) | [source](https://i.kym-cdn.com/entries/icons/original/000/021/782/meme.jpg) |
+| ![](assets/bug_meme.jpeg) | [Kurt Mauritz](https://github.com/MauritzKurt) | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
+| ![](assets/aleksei-meme.webp) | [Aleksei Borovikov](https://github.com/aborov) | [source](https://codingbootcamps.io/resources/our-favorite-programming-memes/) |
+| ![](assets/mentos_meme.jpg) | [Brandon Varner](https://github.com/brvarner) | [source](https://programmerhumor.io/programming-memes/get-ready-for-the-big-bang/) |
 
