@@ -94,4 +94,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/bug_meme.jpeg) | [Kurt Mauritz](https://github.com/MauritzKurt) | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
 | ![](assets/aleksei-meme.webp) | [Aleksei Borovikov](https://github.com/aborov) | [source](https://codingbootcamps.io/resources/our-favorite-programming-memes/) |
 | ![](assets/mentos_meme.jpg) | [Brandon Varner](https://github.com/brvarner) | [source](https://programmerhumor.io/programming-memes/get-ready-for-the-big-bang/) |
-
+| ![](assets/stack-overflow-close-tabs.gif) | [Adolfo Nava](https://github.com/AdolfoNava) | [source](https://tenor.com/view/stack-overflow-close-tabs-and-it-works-build-success-coding-gif-17718518) |
