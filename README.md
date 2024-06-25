@@ -82,3 +82,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 # Gary's Gaba Ghoul Goblins
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
+| ![](assets/gary.jpg) | [Reza Husain](https://github.com/rezahusain) | [source](https://imgflip.com/i/8uza46) |
