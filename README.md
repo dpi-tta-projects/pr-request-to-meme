@@ -40,7 +40,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/cat_memosis.jpeg) | [Dmitrii Sumenko](https://github.com/flstudio4) | [source](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated.html) |
 | ![](./assets/three-spidermen.jpeg) | [Alejandro Lopez](https://github.com/alejlopez139) | [source](https://pbs.twimg.com/media/FMTJZP4VgAEWxxr?format=jpg&name=large)
 | ![](assets/image.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
-| ![](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) | [Ethan Huang](https://github.com/EthanKH) | [source](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0 CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) |
+| ![](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) | [Ethan Huang](https://github.com/EthanKH) | [source](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) |
 | ![](assets/image33.jpeg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 
 # indecisive flapjacks
@@ -79,4 +79,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/raghu_the_goat.jpg) | [Crystal Tliourane](https://github.com/ctlio) | [source](https://www.youtube.com/watch?v=BBJa32lCaaY) |
 | ![](assets/vp_meme.jpg) | [Vincent Pham](https://github.com/phamdvincent) | [source](https://imgflip.com/i/8iiip9) |
 
+# Gary's Gaba Ghoul Goblins
+| Meme | Submitted By | Source |
+| ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) |
 | ![](assets/bug_meme.jpg) | [Kurt Mauritz] | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
