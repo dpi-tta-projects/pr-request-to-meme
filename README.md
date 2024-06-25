@@ -90,3 +90,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/black_panther_meme.jpeg) | [Kevin Calva](https://github.com/kcalva) | [source](https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-9.jpeg) |
 | ![](assets/future-meme.jpg) | [Herman Contreras](https://github.com/hcontr4) | [source](https://i.kym-cdn.com/entries/icons/original/000/021/782/meme.jpg) |
 | ![](assets/bug_meme.jpeg) | [Kurt Mauritz](https://github.com/MauritzKurt) | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
+| ![](assets/programming-meme-27.jpg) | [Fadi Baker](https://github.come/FadiBaker92) | [source] https://www.zegocloud.com/blog/programming-memes |
