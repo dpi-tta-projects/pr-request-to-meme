@@ -92,3 +92,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/benny-meme.jpg) | [Benny Joram](https://github.com/borvux) | [source](https://devcamp.com/site_blogs/top-5-programming-memes) |
 | ![](assets/future-meme.jpg) | [Herman Contreras](https://github.com/hcontr4) | [source](https://i.kym-cdn.com/entries/icons/original/000/021/782/meme.jpg) |
 | ![](assets/bug_meme.jpeg) | [Kurt Mauritz](https://github.com/MauritzKurt) | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
+| ![](assets/aleksei-meme.webp) | [Aleksei Borovikov](https://github.com/aborov) | [source](https://codingbootcamps.io/resources/our-favorite-programming-memes/) |
