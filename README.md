@@ -40,7 +40,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/cat_memosis.jpeg) | [Dmitrii Sumenko](https://github.com/flstudio4) | [source](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated.html) |
 | ![](./assets/three-spidermen.jpeg) | [Alejandro Lopez](https://github.com/alejlopez139) | [source](https://pbs.twimg.com/media/FMTJZP4VgAEWxxr?format=jpg&name=large)
 | ![](assets/image.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
-| ![](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) | [Ethan Huang](https://github.com/EthanKH) | [source](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0 CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) |
+| ![](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) | [Ethan Huang](https://github.com/EthanKH) | [source](https://uploads-ssl.webflow.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png) |
 | ![](assets/image33.jpeg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 
 # indecisive flapjacks
@@ -78,4 +78,16 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/kermit.png) | [Mary Webby](https://github.com/marywebby) | [source](https://www.pinterest.com/pin/662240320235248960/) |
 | ![](assets/raghu_the_goat.jpg) | [Crystal Tliourane](https://github.com/ctlio) | [source](https://www.youtube.com/watch?v=BBJa32lCaaY) |
 | ![](assets/vp_meme.jpg) | [Vincent Pham](https://github.com/phamdvincent) | [source](https://imgflip.com/i/8iiip9) |
+
+# Gary's Gaba Ghoul Goblins
+| Meme | Submitted By | Source |
+| -------- | ------- | ------- |
+| ![](assets/syntax_error.jpeg) | ([Arpan Patel](https://github.com/apatel-ai) |[source](https://global.discourse-cdn.com/codecademy/original/5X/8/f/a/9/8fa903b53b5aae8e32d93040ad87778375119171.jpeg) |
+| ![](assets/gary.jpg) | [Reza Husain](https://github.com/rezahusain) | [source](https://imgflip.com/i/8uza46) |
+| ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) |
+|![](https://i.imgflip.com/28pcba.jpg)| [Ray Gunawidjaja][https://github.com/rayguna] | [source][source](https://www.pinterest.com/pin/get-inspired-and-laugh-with-these-funny-motivational-memes--505880970652725669/)|
+| ![](assets/divs.jpeg) | [Ricardo Juarez](https://github.com/jrzricardo) | [source](https://www.reddit.com/r/programmingmemes/comments/1aw2kp2/_/#lightbox) |
+| ![](assets/black_panther_meme.jpeg) | [Kevin Calva](https://github.com/kcalva) | [source](https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-9.jpeg) |
+| ![](assets/future-meme.jpg) | [Herman Contreras](https://github.com/hcontr4) | [source](https://i.kym-cdn.com/entries/icons/original/000/021/782/meme.jpg) |
+| ![](assets/bug_meme.jpeg) | [Kurt Mauritz](https://github.com/MauritzKurt) | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
 | ![](assets/aleksei-meme.webp) | [Aleksei Borovikov](https://github.com/aborov) | [source](https://codingbootcamps.io/resources/our-favorite-programming-memes/) |
