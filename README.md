@@ -81,4 +81,9 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 
 # Gary's Gaba Ghoul Goblins
 | Meme | Submitted By | Source |
-| ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) |
+| ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) | ![](assets/cat_code_meme.webp) [Nancy Camacho](https://github.com/Nancyjc97) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/8w54mx/code_comments_be_like/) |
+
+
+
+
+
