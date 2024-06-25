@@ -81,7 +81,8 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 
 # Gary's Gaba Ghoul Goblins
 | Meme | Submitted By | Source |
-| -------- | ------- | ------- |
+| ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) |
+| ![](assets/screaming-cat.jpg) | [Rebecca Herrera](https://github.com/reherr) | [source](https://cults3d.com/en/3d-model/home/crying-cat-screaming-meme) |
 | ![](assets/syntax_error.jpeg) | ([Arpan Patel](https://github.com/apatel-ai) |[source](https://global.discourse-cdn.com/codecademy/original/5X/8/f/a/9/8fa903b53b5aae8e32d93040ad87778375119171.jpeg) |
 | ![](assets/gary.jpg) | [Reza Husain](https://github.com/rezahusain) | [source](https://imgflip.com/i/8uza46) |
 | ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) |
@@ -95,6 +96,8 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/programming-meme-27.jpg) | [Fadi Baker](https://github.come/FadiBaker92) | [source] https://www.zegocloud.com/blog/programming-memes |
 | ![](assets/aleksei-meme.webp) | [Aleksei Borovikov](https://github.com/aborov) | [source](https://codingbootcamps.io/resources/our-favorite-programming-memes/) |
 | ![](assets/mentos_meme.jpg) | [Brandon Varner](https://github.com/brvarner) | [source](https://programmerhumor.io/programming-memes/get-ready-for-the-big-bang/) |
+| ![](assets/stack-overflow-close-tabs.gif) | [Adolfo Nava](https://github.com/AdolfoNava) | [source](https://tenor.com/view/stack-overflow-close-tabs-and-it-works-build-success-coding-gif-17718518) |
 | ![](assets/misspell.png) | [Jan Niewielski](https://github.com/jniewiel) | [source](https://i.chzbgr.com/full/9905641728/hC2734F9E/place-there-is-no-harmony-universe-only-constant-is-suffering-minutes-later-oh-misspelled-variable) |
 | ![](assets/highqualitycatmeme.png) | [Dylan Sarikas](https://github.com/dylansarikas) | [source](https://knowyourmeme.com/photos/2781183-tyronestash) |
 | ![](assets/macwindows.jpeg) | [Jeremy Baxter](https://github.com/jt-is-coding) | [source](https://www.reddit.com/r/programmingmemes/comments/1deu5zq/mac/#lightbox) |
+| ![](assets/Programming_Meme.jpeg) | [Maya Sheriff](https://github.com/MayaS1111) | [source](https://www.pinterest.com/pin/42925002689535117/) |
