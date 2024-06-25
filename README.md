@@ -96,3 +96,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/mentos_meme.jpg) | [Brandon Varner](https://github.com/brvarner) | [source](https://programmerhumor.io/programming-memes/get-ready-for-the-big-bang/) |
 | ![](assets/misspell.png) | [Jan Niewielski](https://github.com/jniewiel) | [source](https://i.chzbgr.com/full/9905641728/hC2734F9E/place-there-is-no-harmony-universe-only-constant-is-suffering-minutes-later-oh-misspelled-variable) |
 | ![](highqualitycatmeme.png) | [Dylan Sarikas](https://github.com/dylansarikas) | [source](https://knowyourmeme.com/photos/2781183-tyronestash) |
+| ![](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1lUcxG.img?w=700&h=497&m=6) | [Jennifer Rahman](https://github.com/jb520) | [source](https://devhumor.com/media/developer-experience-matters-too)
