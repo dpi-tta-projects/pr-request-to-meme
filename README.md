@@ -88,3 +88,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/divs.jpeg) | [Ricardo Juarez](https://github.com/jrzricardo) | [source](https://www.reddit.com/r/programmingmemes/comments/1aw2kp2/_/#lightbox) |
 | ![](assets/black_panther_meme.jpeg) | [Kevin Calva](https://github.com/kcalva) | [source](https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-9.jpeg) |
 | ![](assets/bug_meme.jpg) | [Kurt Mauritz] | [source](https://cheezburger.com/8944133/17-coding-memes-for-the-frustrated-software-engineer) |
+| ![](assets/benny-meme.jpg) | [Benny Joram](https://github.com/borvux) | [source](https://devcamp.com/site_blogs/top-5-programming-memes) |
