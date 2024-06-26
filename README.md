@@ -81,6 +81,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 
 # Gary's Gaba Ghoul Goblins
 | Meme | Submitted By | Source |
+| -------- | ------- | ------- |
 | ![](assets/ruby-mem.jpg) | [Young Song](https://github.com/youngsong99) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/kh4wpl/poor_ruby/) |
 | ![](assets/screaming-cat.jpg) | [Rebecca Herrera](https://github.com/reherr) | [source](https://cults3d.com/en/3d-model/home/crying-cat-screaming-meme) |
 | ![](assets/syntax_error.jpeg) | ([Arpan Patel](https://github.com/apatel-ai) |[source](https://global.discourse-cdn.com/codecademy/original/5X/8/f/a/9/8fa903b53b5aae8e32d93040ad87778375119171.jpeg) |
@@ -102,3 +103,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/Programming_Meme.jpeg) | [Maya Sheriff](https://github.com/MayaS1111) | [source](https://www.pinterest.com/pin/42925002689535117/) |
 | ![](assets/sadge.jpeg) | [Jennifer Rahman](https://github.com/jb520) | [source](https://devhumor.com/media/developer-experience-matters-too) |
 | ![](assets/macwindows.jpeg) | [Jeremy Baxter](https://github.com/jt-is-coding) | [source](https://www.reddit.com/r/programmingmemes/comments/1deu5zq/mac/#lightbox) |
+| ![](assets/morning_kitties.jpg) | [Natalie Demyanenko](https://github.com/SaraDawner2000) | [source](https://www.reddit.com/r/Catmeme/comments/ra13ah/me_when_i_wake_up_at_3_am_dying_of_thirst_but_my/) |
