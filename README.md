@@ -105,3 +105,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/macwindows.jpeg) | [Jeremy Baxter](https://github.com/jt-is-coding) | [source](https://www.reddit.com/r/programmingmemes/comments/1deu5zq/mac/#lightbox) |
 | ![](assets/morning_kitties.jpg) | [Natalie Demyanenko](https://github.com/SaraDawner2000) | [source](https://www.reddit.com/r/Catmeme/comments/ra13ah/me_when_i_wake_up_at_3_am_dying_of_thirst_but_my/) |
 | ![](assets/aizat_meme.jpeg)| [Aizat Ibraimova](https://github.com/aizatibraimova) | [source](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*1L-wyk1Kk2Dd-79gb0AvPw.jpeg) |
+| ![](assets/chinemelum-meme.jpeg)| [Chinemelum Iloegbunam](https://github.com/Cindellai) | [source](https://imgflip.com/i/876xe6) |
