@@ -103,3 +103,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/Programming_Meme.jpeg) | [Maya Sheriff](https://github.com/MayaS1111) | [source](https://www.pinterest.com/pin/42925002689535117/) |
 | ![](assets/sadge.jpeg) | [Jennifer Rahman](https://github.com/jb520) | [source](https://devhumor.com/media/developer-experience-matters-too) |
 | ![](assets/macwindows.jpeg) | [Jeremy Baxter](https://github.com/jt-is-coding) | [source](https://www.reddit.com/r/programmingmemes/comments/1deu5zq/mac/#lightbox) |
+| ![](assets/morning_kitties.jpg) | [Natalie Demyanenko](https://github.com/SaraDawner2000) | [source](https://www.reddit.com/r/Catmeme/comments/ra13ah/me_when_i_wake_up_at_3_am_dying_of_thirst_but_my/) |
