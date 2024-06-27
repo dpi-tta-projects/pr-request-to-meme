@@ -106,3 +106,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/morning_kitties.jpg) | [Natalie Demyanenko](https://github.com/SaraDawner2000) | [source](https://www.reddit.com/r/Catmeme/comments/ra13ah/me_when_i_wake_up_at_3_am_dying_of_thirst_but_my/) |
 | ![](assets/aizat_meme.jpeg)| [Aizat Ibraimova](https://github.com/aizatibraimova) | [source](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*1L-wyk1Kk2Dd-79gb0AvPw.jpeg) |
 | ![](assets/chinemelum-meme.jpeg)| [Chinemelum Iloegbunam](https://github.com/Cindellai) | [source](https://imgflip.com/i/876xe6) |
+| ![](assets/Software-Development-Meme.webp) | [Yusra Ahmed](https://github.com/phamdvincent) | [source](https://cdn-cekmh.nitrocdn.com/SlrtebQxNZbUBkfXeRIcTgUmxZsOSldb/assets/images/optimized/rev-8360286/codoid.com/wp-content/uploads/2023/02/Software-Development-Meme.jpg) |
