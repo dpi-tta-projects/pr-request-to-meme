@@ -109,3 +109,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/Software-Development-Meme.webp) | [Yusra Ahmed](https://github.com/phamdvincent) | [source](https://cdn-cekmh.nitrocdn.com/SlrtebQxNZbUBkfXeRIcTgUmxZsOSldb/assets/images/optimized/rev-8360286/codoid.com/wp-content/uploads/2023/02/Software-Development-Meme.jpg) |
 
 | ![](assets/ashanti-meme.jpg) | [Ashanti Hatchett](https://github.com/hatcheta1) | [source](https://thunderdungeon.com/wp-content/uploads/2024/09/moo-deng-3-20240917.jpg) |
+| ![](routes.jpg) | [Brian Kim](https://github.com/bibimbop123) | [source](chatgpt.com) |
