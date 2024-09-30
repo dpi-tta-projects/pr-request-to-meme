@@ -121,3 +121,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/me_in_class.png) | [Vivian Davila](https://github.com/viviancreates) | [source](https://jakewardmusician.medium.com/the-meme-dilemma-how-memes-help-to-destroy-creative-thought-and-popularize-ignorance-e5fa5f64d5a8) |
 | ![](assets/spongebob-meme.jpg) | [Daniela Garcia](https://github.com/dgarcia13-99) | [source](https://benvenutiarts.com/meet-the-benvenuti-arts-team/spongebob-meme-1/)
 | ![](assets/lieutenant_dan.png) | [Anna Villarreal](https://github.com/AnnaVi11arrea1) | [source](https://www.friendsoftheanimalvillage.org/single-post/2014/12/18/15-cat-memes-to-brighten-your-day) |
+| ![](assets/feature-bug.png) | [Merrill Huang](https://github.com/merrillhuang) | [source](https://memebase.cheezburger.com/tag/computer-science-memes) |
