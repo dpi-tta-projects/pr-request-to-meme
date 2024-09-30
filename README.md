@@ -117,7 +117,9 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/ashanti-meme.jpg) | [Ashanti Hatchett](https://github.com/hatcheta1) | [source](https://thunderdungeon.com/wp-content/uploads/2024/09/moo-deng-3-20240917.jpg) |
 | ![](assets/routes.webp) | [Brian Kim](https://github.com/bibimbop123) | [source](chatgpt.com) |
 | ![](assets/mondaymeme.jpeg)| [Jessica JnoBaptiste](https://github.com/jessjno) | [source](https://file.forms.app/sitefile/35+Funny-market-research-memes-to-make-you-roll-with-laughter-28.jpeg)
-| ![](assets/ashanti-meme.jpg) | [Ashanti Hatchett](https://github.com/hatcheta1) | [source](https://thunderdungeon.com/wp-content/uploads/2024/09/moo-deng-3-20240917.jpg) |
 | ![](assets/me_in_class.png) | [Vivian Davila](https://github.com/viviancreates) | [source](https://jakewardmusician.medium.com/the-meme-dilemma-how-memes-help-to-destroy-creative-thought-and-popularize-ignorance-e5fa5f64d5a8) |
 | ![](assets/lieutenant_dan.png) | [Anna Villarreal](https://github.com/AnnaVi11arrea1) | [source](https://www.friendsoftheanimalvillage.org/single-post/2014/12/18/15-cat-memes-to-brighten-your-day) |
 | ![](https://unchainedcrypto.com/wp-content/uploads/2024/08/Untitled-design.png) | [Brian Luu](https://github.com/tluu5) | [sourse](https://unchainedcrypto.com/cat-themed-and-solana-meme-tokens-top-price-performance-in-last-24-hours/) |
+| ![](assets/spongebob-meme.jpg) | [Daniela Garcia](https://github.com/dgarcia13-99) | [source](https://benvenutiarts.com/meet-the-benvenuti-arts-team/spongebob-meme-1/)
+| ![](assets/mp-meme.jpg) | [Margarita Potylitsyna](https://github.com/Ritumka) | [source](https://imgflip.com/i/33dz2i) |
+
