@@ -114,3 +114,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/ashanti-meme.jpg) | [Ashanti Hatchett](https://github.com/hatcheta1) | [source](https://thunderdungeon.com/wp-content/uploads/2024/09/moo-deng-3-20240917.jpg) |
 | ![](routes.jpg) | [Brian Kim](https://github.com/bibimbop123) | [source](chatgpt.com) |
 | ![](assets/me_in_class.png) | [Vivian Davila](https://github.com/viviancreates) | [source](https://jakewardmusician.medium.com/the-meme-dilemma-how-memes-help-to-destroy-creative-thought-and-popularize-ignorance-e5fa5f64d5a8) |
+
