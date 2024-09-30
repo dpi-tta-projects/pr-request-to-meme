@@ -108,5 +108,8 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/chinemelum-meme.jpeg)| [Chinemelum Iloegbunam](https://github.com/Cindellai) | [source](https://imgflip.com/i/876xe6) |
 | ![](assets/Software-Development-Meme.webp) | [Yusra Ahmed](https://github.com/phamdvincent) | [source](https://cdn-cekmh.nitrocdn.com/SlrtebQxNZbUBkfXeRIcTgUmxZsOSldb/assets/images/optimized/rev-8360286/codoid.com/wp-content/uploads/2023/02/Software-Development-Meme.jpg) |
 
+
+# SDF-2024-9 
 | ![](assets/ashanti-meme.jpg) | [Ashanti Hatchett](https://github.com/hatcheta1) | [source](https://thunderdungeon.com/wp-content/uploads/2024/09/moo-deng-3-20240917.jpg) |
 | ![](assets/me_in_class.png) | [Vivian Davila](https://github.com/viviancreates) | [source](https://jakewardmusician.medium.com/the-meme-dilemma-how-memes-help-to-destroy-creative-thought-and-popularize-ignorance-e5fa5f64d5a8) |
+| ![](assets/lieutenant_dan.png) | [Anna Villarreal](https://github.com/AnnaVi11arrea1) | [source](https://www.friendsoftheanimalvillage.org/single-post/2014/12/18/15-cat-memes-to-brighten-your-day) |
