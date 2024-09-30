@@ -108,7 +108,12 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/chinemelum-meme.jpeg)| [Chinemelum Iloegbunam](https://github.com/Cindellai) | [source](https://imgflip.com/i/876xe6) |
 | ![](assets/Software-Development-Meme.webp) | [Yusra Ahmed](https://github.com/phamdvincent) | [source](https://cdn-cekmh.nitrocdn.com/SlrtebQxNZbUBkfXeRIcTgUmxZsOSldb/assets/images/optimized/rev-8360286/codoid.com/wp-content/uploads/2023/02/Software-Development-Meme.jpg) |
 
+
 # 2024-9-1-SDF
+| Meme | Submitted By | Source |
+| -------- | ------- | ------- |
+| ![](assets/ashanti-meme.jpg) | [Ashanti Hatchett](https://github.com/hatcheta1) | [source](https://thunderdungeon.com/wp-content/uploads/2024/09/moo-deng-3-20240917.jpg) |
+| ![](assets/routes.webp) | [Brian Kim](https://github.com/bibimbop123) | [source](chatgpt.com) |
 | ![](assets/mondaymeme.jpeg)| [Jessica JnoBaptiste](https://github.com/jessjno) | [source](https://file.forms.app/sitefile/35+Funny-market-research-memes-to-make-you-roll-with-laughter-28.jpeg)
 | ![](assets/ashanti-meme.jpg) | [Ashanti Hatchett](https://github.com/hatcheta1) | [source](https://thunderdungeon.com/wp-content/uploads/2024/09/moo-deng-3-20240917.jpg) |
 | ![](assets/me_in_class.png) | [Vivian Davila](https://github.com/viviancreates) | [source](https://jakewardmusician.medium.com/the-meme-dilemma-how-memes-help-to-destroy-creative-thought-and-popularize-ignorance-e5fa5f64d5a8) |
