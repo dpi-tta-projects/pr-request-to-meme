@@ -124,3 +124,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/lieutenant_dan.png) | [Anna Villarreal](https://github.com/AnnaVi11arrea1) | [source](https://www.friendsoftheanimalvillage.org/single-post/2014/12/18/15-cat-memes-to-brighten-your-day) |
 | ![](assets/mp-meme.jpg) | [Margarita Potylitsyna](https://github.com/Ritumka) | [source](https://imgflip.com/i/33dz2i) |
 | ![](assets/feature-bug.png) | [Merrill Huang](https://github.com/merrillhuang) | [source](https://memebase.cheezburger.com/tag/computer-science-memes) |
+| ![](assets/tyler-meme.jpg) | [Tyler Estell](https://github.com/Testell) | [source](https://imgflip.com/i/95b49k) |
