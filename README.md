@@ -128,4 +128,6 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/ialyt5m7kkv61.webp) | [Djvon Simpson](https://github.com/dsimp) | [source](https://preview.redd.it/ialyt5m7kkv61.jpg?auto=webp&s=044d30a7eb13df677db6572d7127dcbd173d4719) |
 
 # 2024-10-1-SDF
-| ![](https://preview.redd.it/potato-or-pit-bull-via-https-v0-tcjbqre8eh291.jpg?width=640&crop=smart&auto=webp&s=aff17c822b56fad8e5aad11140d64c56f441c7b6) | [Teresa Pham](https://github.com/teresa-c-pham) | [source](https://www.instagram.com/otterthepitbull/)
+| Meme | Submitted By | Source |
+| -------- | ------- | ------- |
+| ![](https://preview.redd.it/potato-or-pit-bull-via-https-v0-tcjbqre8eh291.jpg?width=640&crop=smart&auto=webp&s=aff17c822b56fad8e5aad11140d64c56f441c7b6) | [Teresa Pham](https://github.com/teresa-c-pham) | [source](https://www.instagram.com/otterthepitbull/) |
