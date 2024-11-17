@@ -130,4 +130,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 # 2024-10-1-SDF
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
-| ![](assets/jim-elden.JPG) | [Jim Vongsouvanh](https://github.com/zer0mancer) | [source](https://cdn.ebaumsworld.com/2022/03/07/120035/87118266/elden-ring-memes21.png) |
+| ![](assets/jim_elden.JPG) | [Jim Vongsouvanh](https://github.com/zer0mancer) | [source](https://cdn.ebaumsworld.com/2022/03/07/120035/87118266/elden-ring-memes21.png) |
