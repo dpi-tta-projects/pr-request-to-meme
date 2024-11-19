@@ -126,4 +126,10 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/feature-bug.png) | [Merrill Huang](https://github.com/merrillhuang) | [source](https://memebase.cheezburger.com/tag/computer-science-memes) |
 | ![](assets/tyler-meme.jpg) | [Tyler Estell](https://github.com/Testell) | [source](https://imgflip.com/i/95b49k) |
 | ![](assets/ialyt5m7kkv61.webp) | [Djvon Simpson](https://github.com/dsimp) | [source](https://preview.redd.it/ialyt5m7kkv61.jpg?auto=webp&s=044d30a7eb13df677db6572d7127dcbd173d4719) |
-| ![](assets/meme_pull_request_photo.jpg) | [Alonzo Rice](https://github.com/ricealonzo) | [source](https://www.reddit.com/r/funny/comments/9t4ae9/baby_looks_at_his_clone/#lightbox) |
+
+
+# 2024-10-1-SDF
+| Meme | Submitted By | Source |
+| -------- | ------- | ------- |
+| ![](assets/jim_elden.JPG) | [Jim Vongsouvanh](https://github.com/zer0mancer) | [source](https://cdn.ebaumsworld.com/2022/03/07/120035/87118266/elden-ring-memes21.png) |
+| ![](assets/meme_pull_request_photo.jpg) | [Alonzo Rice](https://github.com/ricealonzo) | [source](https://www.reddit.com/r/funny/comments/9t4ae9/baby_looks_at_his_clone/#lightbox) 
