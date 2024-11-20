@@ -130,4 +130,5 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 # 2024-10-1-SDF
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
+| ![](https://preview.redd.it/potato-or-pit-bull-via-https-v0-tcjbqre8eh291.jpg?width=640&crop=smart&auto=webp&s=aff17c822b56fad8e5aad11140d64c56f441c7b6) | [Teresa Pham](https://github.com/teresa-c-pham) | [source](https://www.instagram.com/otterthepitbull/) |
 | ![](assets/jim_elden.JPG) | [Jim Vongsouvanh](https://github.com/zer0mancer) | [source](https://cdn.ebaumsworld.com/2022/03/07/120035/87118266/elden-ring-memes21.png) |
