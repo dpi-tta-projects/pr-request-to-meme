@@ -108,9 +108,6 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/chinemelum-meme.jpeg)| [Chinemelum Iloegbunam](https://github.com/Cindellai) | [source](https://imgflip.com/i/876xe6) |
 | ![](assets/Software-Development-Meme.webp) | [Yusra Ahmed](https://github.com/phamdvincent) | [source](https://cdn-cekmh.nitrocdn.com/SlrtebQxNZbUBkfXeRIcTgUmxZsOSldb/assets/images/optimized/rev-8360286/codoid.com/wp-content/uploads/2023/02/Software-Development-Meme.jpg) |
 
-
-
-
 # 2024-9-1-SDF
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
@@ -127,9 +124,11 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/tyler-meme.jpg) | [Tyler Estell](https://github.com/Testell) | [source](https://imgflip.com/i/95b49k) |
 | ![](assets/ialyt5m7kkv61.webp) | [Djvon Simpson](https://github.com/dsimp) | [source](https://preview.redd.it/ialyt5m7kkv61.jpg?auto=webp&s=044d30a7eb13df677db6572d7127dcbd173d4719) |
 
-
 # 2024-10-1-SDF
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
+| ![](https://preview.redd.it/potato-or-pit-bull-via-https-v0-tcjbqre8eh291.jpg?width=640&crop=smart&auto=webp&s=aff17c822b56fad8e5aad11140d64c56f441c7b6) | [Teresa Pham](https://github.com/teresa-c-pham) | [source](https://www.instagram.com/otterthepitbull/) |
 | ![](assets/jim_elden.JPG) | [Jim Vongsouvanh](https://github.com/zer0mancer) | [source](https://cdn.ebaumsworld.com/2022/03/07/120035/87118266/elden-ring-memes21.png) |
 | ![](assets/meme_pull_request_photo.jpg) | [Alonzo Rice](https://github.com/ricealonzo) | [source](https://www.reddit.com/r/funny/comments/9t4ae9/baby_looks_at_his_clone/#lightbox) 
+| ![](https://scontent-ord5-2.xx.fbcdn.net/v/t1.6435-9/75521867_1748245848640690_8667252245370241024_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=SiocJFF-QxAQ7kNvgF9yHUi&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=AWnERHsTW1bsQX56UF4KitG&oh=00_AYB3n9-vGBL9OVp-ht91AZ_10RhznhDHqD24umrYt7niXA&oe=6766068C) | [Max Montesino](https://github.com/m-nt-s-no) | [source](https://www.facebook.com/photo.php?fbid=1748245845307357&id=298385066960116&set=a.298401790291777) |
+
