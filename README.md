@@ -131,5 +131,5 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/jim_elden.JPG) | [Jim Vongsouvanh](https://github.com/zer0mancer) | [source](https://cdn.ebaumsworld.com/2022/03/07/120035/87118266/elden-ring-memes21.png) |
 | ![](assets/meme_pull_request_photo.jpg) | [Alonzo Rice](https://github.com/ricealonzo) | [source](https://www.reddit.com/r/funny/comments/9t4ae9/baby_looks_at_his_clone/#lightbox) 
 | ![](https://scontent-ord5-2.xx.fbcdn.net/v/t1.6435-9/75521867_1748245848640690_8667252245370241024_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=SiocJFF-QxAQ7kNvgF9yHUi&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=AWnERHsTW1bsQX56UF4KitG&oh=00_AYB3n9-vGBL9OVp-ht91AZ_10RhznhDHqD24umrYt7niXA&oe=6766068C) | [Max Montesino](https://github.com/m-nt-s-no) | [source](https://www.facebook.com/photo.php?fbid=1748245845307357&id=298385066960116&set=a.298401790291777) 
-| ![](/assets/bird-meme.jpeg) | [KieuThanhDiem Grace Do](https://github.com/grace1501) | [source](https://x.com/TommySiegel/status/1857805646755750000)
+| ![](assets/bird-meme.jpeg) | [KieuThanhDiem Grace Do](https://github.com/grace1501) | [source](https://x.com/TommySiegel/status/1857805646755750000)
 
