@@ -12,7 +12,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/wheres-the-mouse.webp) | [Ian Heraty](https://github.com/heratyian) | [source](https://wallpapers.com/images/featured-full/cat-meme-pictures-9anza1hu2l2k0wyp.jpg) |
 | ![](./assets/bwimage.jpeg) | [Brian Waddell](https://github.com/Brian-Waddell) | [source](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/278198975_3069239186721300_8146581222467992731_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kJ-BD7YozQwAX9udrWB&_nc_ht=scontent-ord5-2.xx&oh=00_AfDBefafzBfNjg6qUA1gAL0LyRviO4bRgUg4AUqf1pkkrA&oe=653D8F44) |
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
-| ![](./assets/memes.webp) | [RJ](https://github.com/RJDPI) | [source](https://img-aws.ehowcdn.com/700x/cdn.onlyinyourstate.com/wp-content/uploads/2018/02/Facebook_Chicago-Memes12-700x704.jpg) | 
+| ![](./assets/memes.webp) | [RJ](https://github.com/RJDPI) | [source](https://img-aws.ehowcdn.com/700x/cdn.onlyinyourstate.com/wp-content/uploads/2018/02/Facebook_Chicago-Memes12-700x704.jpg) |
 | ![](./assets/tech-interview-meme.jpeg) | [Ian Heraty](https://github.com/heratyian) | [source](https://twitter.com/daboigbae/status/1698017944478130210?s=12)
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
 | ![](./assets/zoom_meeting.jpeg) | [Alina Sapronova](https://github.com/AlinaSapronova) | [source](https://bascomtelephone.com/community/latest-news/best-tech-memes-2020/) |
@@ -26,7 +26,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/coffee-meme-hello-darkness-my-old-friend.jpg) | [Fidel Leal](https://github.com/fidel-techprep) | [source](https://i0.wp.com/roomescapeartist.com/wp-content/uploads/2016/07/coffee-meme-hello-darkness-my-old-friend.jpg?ssl%253D1) |
 | ![](./assets/pickle-meme-aldo.jpg) | [Aldo Portillo](https://github.com/aldoportillo) | [source](https://pbs.twimg.com/media/FsXbMgoWcAAut83.jpg) |
 | ![](./assets/meme-dp.jpeg) | [Sara Schoonover](https://github.com/saraschoonover) | [source](https://media.sproutsocial.com/uploads/meme-example.jpg) |
-| ![](./assets/funnymeme.png) | [Brenda Reyes](https://github.com/brendareyes-techprep) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/ayvwjo/confused_screaming/) | 
+| ![](./assets/funnymeme.png) | [Brenda Reyes](https://github.com/brendareyes-techprep) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/ayvwjo/confused_screaming/) |
 | ![](./assets/it.png) | [Carlos Castaneda](https://github.com/CarlosCastanedaDev) | [source](https://images.app.goo.gl/iQ7RNtfAMFb4x5yB6) |
 | ![](./assets/garden.jpg) | [Jared Bears](https://github.com/JaredBears) | [source](https://www.instagram.com/p/CMfOcLEh6ff/) |
 | ![](https://pbs.twimg.com/media/F7tPqVGWsAAoXOc?format=jpg&name=large) | [Jun So](https://github.com/thatcantbeso) | [source](https://twitter.com/KennethCassel/status/1710048342535753795) |
@@ -72,9 +72,9 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/cat_companon.jpeg) | [Amanda Mendez](https://github.com/amandaag39) | [source](https://chat.openai.com/) |
 | ![](assets/flapjack_meme.jpeg)  | [Jason Johnson](https://github.com/jjohnson606) | [source](https://preview.redd.it/6f99lpe3i8151.jpg?auto%253Dwebp%2526s%253D6a760891b0c8905979480ca7cc672f77912c5287) |
 | ![]([assets/request-to-meme-ra.png](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg)) | [Lamont Sampson](https://github.com/lsampson74) | [source](https://www.abtasty.com/wp-content/uploads/test-in-production-meme-1.jpg) |
-| ![](assets/60d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD.png) | [Shafaq Juda](https://github.com/shafaq-juda) | [source](https://uploads-ssl.webflowcom5f3c19f18169b62a0d0bf38760d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD.png) | 
-| ![](assets/writing-code-meme.jpeg) | [Rohan Mendiratta](https://github.com/romendi) | [source](https://www.boredpanda.com/programmer-funny-coding-jokes/) | 
-| ![](assets/meme.jpeg) | [Dylan Menard](https://github.com/Dylanm22) | [source](https://discuss.codecademy.com/t/coding-meme-thread-do-contribute/605868) | 
+| ![](assets/60d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD.png) | [Shafaq Juda](https://github.com/shafaq-juda) | [source](https://uploads-ssl.webflowcom5f3c19f18169b62a0d0bf38760d33bf456d81ff850d41d2e_91ZWM5Ez2aBXw3zcOIgPLP7XnuFW_exwhPzdToPa_AsEcV0Pw837S_kUbYpfpCUAZCLUSZ0_rdV_dUaZRLyz-wOKOMyEi7IaVDvU-tzmpbaUDKY9TNY5GexvJ9ei2R-LTqpfaaQD.png) |
+| ![](assets/writing-code-meme.jpeg) | [Rohan Mendiratta](https://github.com/romendi) | [source](https://www.boredpanda.com/programmer-funny-coding-jokes/) |
+| ![](assets/meme.jpeg) | [Dylan Menard](https://github.com/Dylanm22) | [source](https://discuss.codecademy.com/t/coding-meme-thread-do-contribute/605868) |
 | ![](assets/kermit.png) | [Mary Webby](https://github.com/marywebby) | [source](https://www.pinterest.com/pin/662240320235248960/) |
 | ![](assets/raghu_the_goat.jpg) | [Crystal Tliourane](https://github.com/ctlio) | [source](https://www.youtube.com/watch?v=BBJa32lCaaY) |
 | ![](assets/vp_meme.jpg) | [Vincent Pham](https://github.com/phamdvincent) | [source](https://imgflip.com/i/8iiip9) |
@@ -129,7 +129,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | -------- | ------- | ------- |
 | ![](https://preview.redd.it/potato-or-pit-bull-via-https-v0-tcjbqre8eh291.jpg?width=640&crop=smart&auto=webp&s=aff17c822b56fad8e5aad11140d64c56f441c7b6) | [Teresa Pham](https://github.com/teresa-c-pham) | [source](https://www.instagram.com/otterthepitbull/) |
 | ![](assets/jim_elden.JPG) | [Jim Vongsouvanh](https://github.com/zer0mancer) | [source](https://cdn.ebaumsworld.com/2022/03/07/120035/87118266/elden-ring-memes21.png) |
-| ![](assets/meme_pull_request_photo.jpg) | [Alonzo Rice](https://github.com/ricealonzo) | [source](https://www.reddit.com/r/funny/comments/9t4ae9/baby_looks_at_his_clone/#lightbox) 
+| ![](assets/meme_pull_request_photo.jpg) | [Alonzo Rice](https://github.com/ricealonzo) | [source](https://www.reddit.com/r/funny/comments/9t4ae9/baby_looks_at_his_clone/#lightbox)
 | ![](assets/bird-meme.jpeg) | [KieuThanhDiem Grace Do](https://github.com/grace1501) | [source](https://x.com/TommySiegel/status/1857805646755750000)
 | ![](https://scontent-ord5-2.xx.fbcdn.net/v/t1.6435-9/75521867_1748245848640690_8667252245370241024_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0b6b33&_nc_ohc=SiocJFF-QxAQ7kNvgF9yHUi&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=AWnERHsTW1bsQX56UF4KitG&oh=00_AYB3n9-vGBL9OVp-ht91AZ_10RhznhDHqD24umrYt7niXA&oe=6766068C) | [Max Montesino](https://github.com/m-nt-s-no) | [source](https://www.facebook.com/photo.php?fbid=1748245845307357&id=298385066960116&set=a.298401790291777) |
 | ![](/assets/mw-scooby.png) | [Mary Webby](https://github.com/marywebby) | [source](https://x.com/notgwendalupe/status/1868162603912237512?s=46) |
@@ -142,3 +142,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![Federico's meme](/assets/ice-cream.png) | [Federico Hernandez Nater](https://github.com/fhernandeznater) | [source](https://www.reddit.com/r/sbubby/comments/1eqrljz/i_scream_you_scream_we_all_scream_for_ice_cream/) |
 | ![Melissa's meme](/assets/tomjerry.png) | [Melissa Martinez](https://github.com/martinez415) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/1jgd1rn/happensalltime/) |
 | ![Candide's meme](/assets/searching.jpg) | [Candide Mboungou-Kimpolo](https://github.com/Candide23) | [source](https://i.imgflip.com/6cne8j.jpg) |
+| ![Joel's meme](/assets/jh-meme.webp) | [Joel Hunt](https://github.com/trailsofink) | [source](https://www.theodysseyonline.com/media-library/image.jpg?id=14360537&width=763&quality=80) |
