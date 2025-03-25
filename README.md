@@ -142,4 +142,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![Federico's meme](/assets/ice-cream.png) | [Federico Hernandez Nater](https://github.com/fhernandeznater) | [source](https://www.reddit.com/r/sbubby/comments/1eqrljz/i_scream_you_scream_we_all_scream_for_ice_cream/) |
 | ![Melissa's meme](/assets/tomjerry.png) | [Melissa Martinez](https://github.com/martinez415) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/1jgd1rn/happensalltime/) |
 | ![Candide's meme](/assets/searching.jpg) | [Candide Mboungou-Kimpolo](https://github.com/Candide23) | [source](https://i.imgflip.com/6cne8j.jpg) |
-| ![Joel's meme](/assets/jh-meme.png) | [Joel Hunt](https://github.com/trailsofink) | [source](https://www.theodysseyonline.com/media-library/image.jpg?id=14360537&width=763&quality=80) |
+| ![Joel's meme](/assets/jh-meme.webp) | [Joel Hunt](https://github.com/trailsofink) | [source](https://www.theodysseyonline.com/media-library/image.jpg?id=14360537&width=763&quality=80) |
