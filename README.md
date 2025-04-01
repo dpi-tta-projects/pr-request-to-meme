@@ -143,4 +143,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![Melissa's meme](/assets/tomjerry.png) | [Melissa Martinez](https://github.com/martinez415) | [source](https://www.reddit.com/r/ProgrammerHumor/comments/1jgd1rn/happensalltime/) |
 | ![Candide's meme](/assets/searching.jpg) | [Candide Mboungou-Kimpolo](https://github.com/Candide23) | [source](https://i.imgflip.com/6cne8j.jpg) |
 | ![Joel's meme](/assets/jh-meme.webp) | [Joel Hunt](https://github.com/trailsofink) | [source](https://www.theodysseyonline.com/media-library/image.jpg?id=14360537&width=763&quality=80) |
-| (/assets/vm-howdoyou.png) | [Victor Manzanilla](https://github.com/VictorManzanilla) | [source](https://community.spiceworks.com/t/whats-your-go-to-meme-or-gif/932596) |
+| ![Victor's meme](/assets/vm-howdoyou.png) | [Victor Manzanilla](https://github.com/VictorManzanilla) | [source](https://community.spiceworks.com/t/whats-your-go-to-meme-or-gif/932596) |
