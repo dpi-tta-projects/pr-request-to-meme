@@ -144,3 +144,5 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![Candide's meme](/assets/searching.jpg) | [Candide Mboungou-Kimpolo](https://github.com/Candide23) | [source](https://i.imgflip.com/6cne8j.jpg) |
 | ![Joel's meme](/assets/jh-meme.webp) | [Joel Hunt](https://github.com/trailsofink) | [source](https://www.theodysseyonline.com/media-library/image.jpg?id=14360537&width=763&quality=80) |
 | ![Sabreena's meme](/assets/img_meme.jpg) | [Sabreena Salomon](https://github.com/Sabreenasal) | [source](https://cleanmemes.com/) |
+
+| ![Mohamed's meme](/assets/cat_meme_mo.jpg) | [Mohamed Elhelw](https://github.com/melhelow) | [source](https://pleated-jeans.com/2025/01/21/funny-cat-memes-1-21-25/) |
