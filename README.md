@@ -148,3 +148,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![Devlin's meme](/assets/lebronmeme.webp) | [Devlin Harvey](https://github.com/pdevlinharvey) | [source](https://www.reddit.com/r/pcmasterrace/comments/1c3mzcv/rookie_mistake/) |
 | ![Miguel's meme](/assets/graphic-design.jpg)| [Miguel Ramos](https://github.com/Mrammoss)| [source](https://flat-icons.com/graphic-design-is-my-passion/)|
 | ![Torell's meme](/assets/simpson.jpg)| [Torell Pernell](https://github.com/torellpernell)| [source](https://www.reddit.com/r/ProgrammerHumor/comments/t598pg/i_love_bug_fixing_but_i_hate_when_im_not_able_to/)|
+| ![Bella Rose's meme](/assets/april-fools-joke.gif) | [Bella Rose Wilson](https://github.com/bellarosewilson)| [source](https://tenor.com/search/everything-is-fine-meme-gifs)|
