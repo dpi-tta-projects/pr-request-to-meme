@@ -152,4 +152,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 # 2025-07-1-SDF
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
-| ![Drews' meme](/assets/3kher9.jpg) | [Drew Krehel](https://github.com/DrewKrehel) | [source](https://imgflip.com/i/3kher9) |
+| ![Drews' meme](/assets/8568bd567fb59f63d2cf835ba7519396.jpg) | [Drew Krehel](https://github.com/DrewKrehel) | [source](https://pin.it/5hyosUtKj) |
