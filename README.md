@@ -153,3 +153,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
 | ![Karen's meme](/assets/whatever.webp) | [Karen Barbé](https://github.com/karenbarbe) | [source](https://tenor.com/view/ok-bye-gif-5199047323920036251) |
+| ![Molu's Meme](/assets/Where%20has%20summer%20gone!.jpeg) | [Muhammed Luqman Ahmad](https://github.com/Muhammed-L-Ahmad) | [source](https://www.pinterest.com/pin/where-has-summer-gone--319614904813930819/) |
