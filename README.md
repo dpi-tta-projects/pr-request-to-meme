@@ -154,3 +154,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | -------- | ------- | ------- |
 | ![Karen's meme](/assets/whatever.webp) | [Karen Barbé](https://github.com/karenbarbe) | [source](https://tenor.com/view/ok-bye-gif-5199047323920036251) |
 | ![Molu's Meme](/assets/Where%20has%20summer%20gone!.jpeg) | [Muhammed Luqman Ahmad](https://github.com/Muhammed-L-Ahmad) | [source](https://www.pinterest.com/pin/where-has-summer-gone--319614904813930819/) |
+| ![Bella Rose's Meme](/assets/april-fools-joke.gif) | [Bella Rose Wilson](https://github.com/bellarosewilson) | [source](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FI-0U2q1pm3oAAAAC%2Fim-fine-its-fine.gif&f=1&nofb=1&ipt=47f52bf4c04ea9ee27b31ae11b5cf24324d496259576f516c1dcbe8834fb2afa) |
