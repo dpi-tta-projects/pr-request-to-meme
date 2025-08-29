@@ -158,3 +158,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![Drews' meme](/assets/8568bd567fb59f63d2cf835ba7519396.jpg) | [Drew Krehel](https://github.com/DrewKrehel) | [source](https://pin.it/5hyosUtKj) |
 | ![Darius's Meme](/assets/darius-bugs-everywhere-meme.jpg) | [Darius Woods](https://github.com/dariusw1234) | [source](https://imgflip.com/i/a3okvt?herp=1755740658684) |
 | ![Courtney's Meme](/assets/leetcode-meme.png) | [Courtney Kimbrough](https://github.com/CourtneyKimbrough) | [source](https://www.jakemaguy.com/posts/leetcode-grind-day1/) |
+| ![Kseniia's meme](/assets/mouse.jpg) | [Kseniia Kormalova](https://github.com/kkseniad) | [source](https://www.instagram.com/p/DKUIxS1Mu72/?img_index=13) |
