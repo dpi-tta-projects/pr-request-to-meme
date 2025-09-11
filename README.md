@@ -160,3 +160,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![Courtney's Meme](/assets/leetcode-meme.png) | [Courtney Kimbrough](https://github.com/CourtneyKimbrough) | [source](https://www.jakemaguy.com/posts/leetcode-grind-day1/) |
 | ![Kseniia's meme](/assets/mouse.jpg) | [Kseniia Kormalova](https://github.com/kkseniad) | [source](https://www.instagram.com/p/DKUIxS1Mu72/?img_index=13) |
 | ![August's meme](/assets/resume-meme.jpg) | [August Pollard](https://github.com/Ljpeg) | [source](https://blog.aghires.com/10-memes-job-seeker-can-relate/) |
+| ![Berhane's meme](assets/tyler-meme.jpg) | [Berhane Berhane](https://github.com/bberhane80) | [source](https://www.pinterest.com/pin/224757837642770953/)
