@@ -162,3 +162,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![August's meme](/assets/resume-meme.jpg) | [August Pollard](https://github.com/Ljpeg) | [source](https://blog.aghires.com/10-memes-job-seeker-can-relate/) |
 | ![Berhane's meme](assets/tyler-meme.jpg) | [Berhane Berhane](https://github.com/bberhane80) | [source](https://www.pinterest.com/pin/224757837642770953/) |
 | ![Alex's meme](assets/jpeg_compression.png) | [Alex Slawniak](https://github.com/BLOODAXED) | [source](https://www.reddit.com/r/orlybooks/comments/fbacbg/jpeg_compression/)
+| ![Heather's Meme](/assets/pull-request-meme.jpg) | [Heather Forester](https://github.com/hforeste07) | [source](https://imgflip.com/i/a4xbwu) |
