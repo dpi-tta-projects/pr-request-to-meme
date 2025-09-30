@@ -163,3 +163,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![Berhane's meme](assets/tyler-meme.jpg) | [Berhane Berhane](https://github.com/bberhane80) | [source](https://www.pinterest.com/pin/224757837642770953/) |
 | ![Alex's meme](assets/jpeg_compression.png) | [Alex Slawniak](https://github.com/BLOODAXED) | [source](https://www.reddit.com/r/orlybooks/comments/fbacbg/jpeg_compression/)
 | ![Heather's Meme](/assets/pull-request-meme.jpg) | [Heather Forester](https://github.com/hforeste07) | [source](https://imgflip.com/i/a4xbwu) |
+| ![Maia's Meme](/assets/funnyMemeMR.jpeg) | [Maia Rowe](https://github.com/Mrowe178566) | [source](https://python.plainenglish.io/funny-programming-memes-explained-by-a-professional-software-developer-8f048de2b483) |
