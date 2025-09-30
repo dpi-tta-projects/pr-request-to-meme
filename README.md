@@ -163,3 +163,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![Berhane's meme](assets/tyler-meme.jpg) | [Berhane Berhane](https://github.com/bberhane80) | [source](https://www.pinterest.com/pin/224757837642770953/) |
 | ![Alex's meme](assets/jpeg_compression.png) | [Alex Slawniak](https://github.com/BLOODAXED) | [source](https://www.reddit.com/r/orlybooks/comments/fbacbg/jpeg_compression/)
 | ![Heather's Meme](/assets/pull-request-meme.jpg) | [Heather Forester](https://github.com/hforeste07) | [source](https://imgflip.com/i/a4xbwu) |
+| ![Monique's Meme](/assets/551250376_18542377732040528_1204971810691604345_n.jpg) | [Monique Theogene](https://github.com/MoniqueTheogene123) | [source](https://www.instagram.com/p/DO4D32mku-t/?utm_source=ig_web_copy_link)) |
